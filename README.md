@@ -9,5 +9,5 @@
 <p align="center">
   <a href="https://github.com/kauebrederg?tab=repositories">Repositórios</a> &nbsp; · &nbsp;
   <a href="https://github.com/kauebrederg?tab=stars">Stars</a> &nbsp; · &nbsp;
-  <a href="https://github.com/kauebrederg#overview">Atividade</a>
+  <a href="https://github.com/kauebrederg#js-contribution-activity-description">Atividade</a>
 </p>
